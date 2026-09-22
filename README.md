@@ -23,29 +23,19 @@ The project is mainly for learning C and getting familiar with raylib, especiall
 * Background
 
 <details>
-<summary>📸 Images</summary>
+<summary>📸 Screenshots</summary>
 
 <br>
 
-### Background
+<p align="center">
+  <img src="./readme/gameplay.png" width="45%">
+  <img src="./readme/jump.png" width="45%">
+</p>
 
-<img src="./image/background.png" width="500">
-
-### Player
-
-<img src="./image/player.png" width="120">
-
-### Jump
-
-<img src="./image/jump.png" width="120">
-
-### Block
-
-<img src="./image/lucky.png" width="120">
-
-### Mushroom
-
-<img src="./image/champignon.png" width="120">
+<p align="center">
+  <img src="./readme/mushroom.png" width="45%">
+  <img src="./readme/big-player.png" width="45%">
+</p>
 
 </details>
 
