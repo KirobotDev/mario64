@@ -28,13 +28,12 @@ The project is mainly for learning C and getting familiar with raylib, especiall
 <br>
 
 <p align="center">
-  <img src="./readme/gameplay.png" width="45%">
+  <img src="./readme/main.png" width="45%">
   <img src="./readme/jump.png" width="45%">
 </p>
 
 <p align="center">
-  <img src="./readme/mushroom.png" width="45%">
-  <img src="./readme/big-player.png" width="45%">
+  <img src="./readme/lucky.png" width="45%">
 </p>
 
 </details>
