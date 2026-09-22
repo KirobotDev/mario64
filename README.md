@@ -6,6 +6,8 @@ The project is mainly for learning C and getting familiar with raylib, especiall
 
 ## Controls
 
+" AZERTY "
+
 * `Q` — Move left
 * `D` — Move right
 * `SPACE` — Jump
